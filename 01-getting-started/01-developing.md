@@ -11,6 +11,7 @@ To work with the source code you need the following tools:
 * [MongoDB](https://www.mongodb.com/)
 * Optionally: [Redis](https://redis.io/download)
 * Optionally: [RabbitMQ](https://www.rabbitmq.com/download.html)
+* [Python 2](https://www.python.org/download/releases/2.7/) required for running node sass
 
 We also provide ready to use docker configurations: [https://github.com/squidex/squidex-docker](https://github.com/squidex/squidex-docker). Just execute the following commands to get a mongodb and redis installation for development:
 
